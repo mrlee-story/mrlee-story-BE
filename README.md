@@ -1,4 +1,4 @@
-<h2 align="center">(FE) 개인 PR 홈페이지 (Mrlee-Story)</h2>
+<h2 align="center">(BE) 개인 PR 홈페이지 (Mrlee-Story)</h2>
 개인의 공중 관계(Public Relationship)을 3D로 지원하여, <br/> 페이지 내에서 개인 소개부터 포트폴리오, 커뮤니케이션 등을 시각적으로 이용할 수 있습니다.
 
 ## 목차
